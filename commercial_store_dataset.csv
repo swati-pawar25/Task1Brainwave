@@ -1,0 +1,7 @@
+Transaction ID,Date,Customer ID,Product ID,Product Name,Category,Quantity Sold,Unit Price,Total Sale Amount,Payment Method,Store Location
+T001,2024-12-01,C101,P001,"LED TV 42""",Electronics,1,35000,35000,Credit Card,Mumbai
+T002,2024-12-01,C102,P005,Coffee Maker,Home Appliance,2,3000,6000,Cash,Delhi
+T003,2024-12-02,C103,P007,Leather Wallet,Accessories,3,500,1500,Debit Card,Bengaluru
+T004,2024-12-03,C101,P002,Smartphone,Electronics,1,15000,15000,Credit Card,Mumbai
+T005,2024-12-04,C104,P003,Air Conditioner 1.5T,Home Appliance,1,40000,40000,UPI,Hyderabad
+T006,2024-12-04,C105,P008,Running Shoes,Footwear,2,2500,5000,Cash,Chennai
